@@ -1,0 +1,9 @@
+from tkinter import E
+
+
+while True:
+    a=input("hjrthgtrhrth4hh\n")
+    if a.lower()!="no":
+        break
+    else:
+        print("Sorry!")
